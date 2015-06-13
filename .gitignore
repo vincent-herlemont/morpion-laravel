@@ -3,3 +3,5 @@
 .env
 .swp
 /resources/assets/bower
+
+*.swp
