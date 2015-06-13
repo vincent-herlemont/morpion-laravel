@@ -1,0 +1,5 @@
+/vendor
+/node_modules
+.env
+.swp
+/resources/assets/bower

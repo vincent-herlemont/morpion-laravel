@@ -1,0 +1,20 @@
+{
+  "name": "morpion",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-basicauth": "~0.3.0",
+    "angular-resource": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angularjs": "~1.4.0",
+    "ngstorage": "~0.3.4"
+  }
+}
