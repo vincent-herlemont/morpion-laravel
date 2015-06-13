@@ -18,7 +18,7 @@ Other :
 1. Install composer dependency
   * composer update
 
-2. Install npm dependency
+2. Install npm dependency (optional)
   * npm install
 
 3. Create key 
@@ -33,7 +33,7 @@ Other :
   * bower install 
 
 5. Start up application, in the main directory of morpion-laravel
-  * php artisan serv
+  * php artisan serve
 
 ### Util
 
